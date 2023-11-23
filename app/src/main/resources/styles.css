@@ -1,0 +1,22 @@
+.main{
+    -fx-padding: 10px;
+    -fx-hgap: 10px;
+}
+
+.content {
+    -fx-padding: 10px;
+    -fx-hgap: 10px;
+    -fx-size: 100%;
+}
+
+.thumbnail {
+    -fx-fill: red;
+}
+
+.thumbnail Label{
+    -fx-font-size:10px;
+}
+
+.thumbnail Image{
+    -fx-border-radius: 50px;
+}
